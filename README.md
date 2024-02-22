@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OybekBerdiyev
+- 👋 Hi, I’m Oybek Berdiyev
 - 👀 I’m writing in NodeJs Backend
 - 🌱 I’m currently learning Reactjs
 
